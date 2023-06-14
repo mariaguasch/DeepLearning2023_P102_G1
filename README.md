@@ -7,7 +7,7 @@ We have worked with different models:
 
 - Our own (simple) model from scratch
 - Regression model with MSE Loss
-- VGG Face transfer
+- VGG-Face transfer learning
 
 ### Authors (from P102 group 1):
 - Núria Codina Serra
