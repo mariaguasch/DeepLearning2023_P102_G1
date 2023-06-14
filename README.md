@@ -7,3 +7,6 @@ Authors (from P102 group 1):
 - Núria Codina Serra
 - Martina Gómez Martín
 - Maria Guasch Torres
+
+This is the dataset we used to both train and test our models:
+https://www.kaggle.com/datasets/jangedoo/utkface-new
